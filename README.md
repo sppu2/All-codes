@@ -1,4 +1,4 @@
-# List of Practicals
+# F.D.S
 
 <table style="width:100%">
   <tr>
