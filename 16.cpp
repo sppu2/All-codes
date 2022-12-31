@@ -6,11 +6,9 @@ Title 		: Write C++ program for storing appointment schedule for day. Appointmen
 		    c) Cancel appointment ( check validity, time bounds, availability etc)
 		    d) Sort list based on time
 		    e) Sort list based on time using pointer manipulation
-Class		: SE Computer Engineering
-Batch		: C
-Roll No		: 39
-Started On	:25/7/17
-Completed On:08/8/17				
+Class		: 
+Batch		: 
+Roll No		: 				
 */
 
 
