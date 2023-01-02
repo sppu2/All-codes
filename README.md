@@ -20,26 +20,26 @@ d) Display mark with highest frequency</td>
   
   <tr>
     <td>2,3</td>
-    <td>Write a Python program to compute following operations on String:
-a) To display word with the longest length
-b) To determines the frequency of occurrence of particular character in the string
-c) To check whether given string is palindrome or not
-d) To display index of first appearance of the substring
+    <td>Write a Python program to compute following operations on String:<br>
+a) To display word with the longest length<br>
+b) To determines the frequency of occurrence of particular character in the string<br>
+c) To check whether given string is palindrome or not<br>
+d) To display index of first appearance of the substring<br>
 e) To count the occurrences of each word in a given string</td>
   </tr>
   
   <tr>
     <td>4,5</td>
-    <td>Write a python program to compute following computation on matrix:
-a) Addition of two matrices
-b) Subtraction of two matrices
-c) Multiplication of two matrices
+    <td>Write a python program to compute following computation on matrix:<br>
+a) Addition of two matrices<br>
+b) Subtraction of two matrices<br>
+c) Multiplication of two matrices<br>
 d) Transpose of a matrix</td>
   </tr>
   
   <td>6,7,8,9,10</td>
     <td>Write a python program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using<br>
-a) Selection, Bubble, Insertion, Shell, Quick sort c) display top five scores.</td>
+a) Selection, Bubble, Insertion, Shell, Quick sort<br> b) display top five scores.</td>
   </tr>
   
   <td>11,12</td>
