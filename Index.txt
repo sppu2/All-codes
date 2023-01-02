@@ -1,0 +1,30 @@
+1) Write a Python program to store marks scored in subject “Fundamental of Data Structure” by N students in the class. Write functions to compute following: a) The average score of class b) Highest score and lowest score of class c) Count of students who were absent for the test d) Display mark with highest frequency
+
+2,3) Write a Python program to compute following operations on String: a) To display word with the longest length b) To determines the frequency of occurrence of particular character in the string c) To check whether given string is palindrome or not d) To display index of first appearance of the substring e) To count the occurrences of each word in a given string
+
+4,5) Write a python program to compute following computation on matrix: a) Addition of two matrices b) Subtraction of two matrices c) Multiplication of two matrices d) Transpose of a matrix
+
+6) Write a python program to store second year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+a) selection sort b) display top five scores.
+
+7) Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+a) Bubble sort b) display top five scores.
+
+8) Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+a) Insertion sort b) display top five scores.
+
+9) Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+a) Shell sort b) display top five scores.
+
+10) Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using
+a) Quick sort b) display top five scores.
+
+11,12) Department of Computer Engineering has student's club named 'Pinnacle Club'. Students of second, third and final year of department can be granted membership on request. Similarly one may cancel the membership of club. First node is reserved for president of club and last node is reserved for secretary of club. Write C++ program to maintain club member‘s information using singly linked list. Store student PRN and Name. Write functions to: a) Add and delete the members as well as president or even secretary. b) Compute total number of members of club c) Display members d) Two linked lists exists for two divisions. Concatenate two lists.
+
+13) Second year Computer Engineering class, set A of students like Vanilla Ice-cream and set B of students like butterscotch ice-cream. Write C++ program to store two sets using linked list. compute and display- a) Set of students who like both vanilla and butterscotch b) Set of students who like either vanilla or butterscotch or not both c)Number of students who like neither vanilla nor butterscotch.
+
+14) Write C++ program for storing appointment schedule for day. Appointments are booked randomly using linked list. Set start and end time and min and max duration for visit slot. Write functions for- a)Display free slots, b)Book appointment c)Cancel appointment (check validity,time bounds,availability), d)Sort list based on time, e)Sort list based on time using pointer manipulation.
+
+15) In any language program mostly syntax error occurs due to unbalancing delimiter such as (),{},[]. Write C++ program using stack to check whether given expression is well parenthesized or not.
+
+16) Implement C++ program for expression conversion as infix to postfix and its evaluation using stack based on given conditions: 1. Operands and operator, both must be single character. 2. Input Postfix expression must be in a desired format. 3. Only '+', '-', '*' and '/ ' operators are expected.
