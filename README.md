@@ -175,6 +175,16 @@ a) To print original string followed by reversed string using stack
 b) To check whether given string is palindrome or not
 </td>
   </tr>
+  
+  <tr>
+    <td>24</td>
+    <td>Write a python program to store first year percentage of students in array. Write function for sorting array of floating point numbers in ascending order using 
+a) Selection Sort 
+b) Bubble sort and display top five scores.
+</td>
+  </tr>
+  
+  
  
   
     
