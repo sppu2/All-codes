@@ -140,6 +140,41 @@ and '/ ' operators are expected.</td>
     <td>19</td>
     <td>Pizza parlor accepting maximum M orders. Orders are served in first come first served basis. Order once placed cannot be cancelled. Write C++ program to simulate the system using circular queue using array.</td>
   </tr>
+  
+  <tr>
+    <td>20</td>
+    <td>In second year computer engineering class, group A student’s play cricket, group B students play badminton and group C students play football. 
+Write a Python program using functions to compute following: - 
+a) List of students who play both cricket and badminton 
+b) List of students who play either cricket or badminton but not both 
+c) Number of students who play neither cricket nor badminton 
+d) Number of students who play cricket and football but not badminton. 
+(Note- While realizing the group, duplicate entries should be avoided, Do not use SET built-in functions)
+</td>
+  </tr>
+  
+  <tr>
+    <td>21</td>
+    <td>Write a python program to maintain club members, sort on roll numbers in ascending order. Write function “Ternary_Search” to search whether particular student is member of club or not. Ternary search is modified binary search that divides array into 3 halves instead of two.
+</td>
+  </tr>
+  
+  <tr>
+    <td>22</td>
+    <td>The ticket booking system of Cinemax theater has to be implemented using C++ program. There are 10 rows and 7 seats in each row. Doubly circular linked list has to be maintained to keep track of free seats at rows. Assume some random booking to start with. Use array to store pointers (Head pointer) to each row. On demand 
+a) The list of available seats is to be displayed 
+b) The seats are to be booked 
+c) The booking can be cancelled.
+</td>
+  </tr>
+  
+  <tr>
+    <td>23</td>
+    <td>A palindrome is a string of character that‘s the same forward and backward. Typically, punctuation, capitalization, and spaces are ignored. For example, “Poor Dan is in a droop” is a palindrome, as can be seen by examining the characters “poor danisina droop” and observing that they are the same forward and backward. One way to check for a palindrome is to reverse the characters in the string and then compare with them the original-in a palindrome, the sequence will be identical. Write C++ program with functions- 
+a) To print original string followed by reversed string using stack 
+b) To check whether given string is palindrome or not
+</td>
+  </tr>
  
   
     
